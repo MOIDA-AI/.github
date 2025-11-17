@@ -1,5 +1,3 @@
-![MOIDA AI](https://github.com/user-attachments/assets/5747b731-4a11-4c08-88b0-80343bfd8271)
-
 ## 🌐 MOIDA AI
 
 > **Autonomous AI Operations for Smarter, Safer Enterprises**  
